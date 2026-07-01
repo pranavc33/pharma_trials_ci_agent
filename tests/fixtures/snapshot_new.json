@@ -1,0 +1,68 @@
+{
+  "drug_names": [
+    "sotorasib",
+    "adagrasib",
+    "divarasib",
+    "olomorasib"
+  ],
+  "snapshot_date": "2026-06-29",
+  "trials": {
+    "NCT00000001": {
+      "drug": "Sotorasib",
+      "enrollment": 345,
+      "label": "Status seed",
+      "primary_completion_date": "2027-06-30",
+      "publications": [],
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    "NCT00000002": {
+      "drug": "Adagrasib",
+      "enrollment": 450,
+      "label": "Timeline seed",
+      "primary_completion_date": "2029-12-15",
+      "publications": [],
+      "status": "RECRUITING"
+    },
+    "NCT00000003": {
+      "drug": "Divarasib",
+      "enrollment": 275,
+      "label": "Enrollment seed",
+      "primary_completion_date": "2027-09-30",
+      "publications": [],
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    "NCT00000004": {
+      "drug": "Olomorasib",
+      "enrollment": 600,
+      "label": "Publication seed",
+      "primary_completion_date": "2029-05",
+      "publications": [
+        {
+          "authors": [
+            "Example A",
+            "Example B"
+          ],
+          "journal": "Journal of Seeded Fixtures",
+          "pmid": "10000001",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/10000001/",
+          "title": "Baseline publication for fixture trial.",
+          "year": "2025"
+        },
+        {
+          "authors": [
+            "Investigator One",
+            "Investigator Two"
+          ],
+          "journal": "Oncology Fixture Reports",
+          "pmid": "20000002",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/20000002/",
+          "title": "Seeded new readout publication.",
+          "year": "2026"
+        }
+      ],
+      "status": "RECRUITING"
+    }
+  },
+  "watchlist_description": "Seeded test watchlist.",
+  "watchlist_name": "seeded_monitor"
+}

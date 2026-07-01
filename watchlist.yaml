@@ -1,0 +1,46 @@
+name: kras_g12c_nsclc
+description: KRAS G12C NSCLC Phase 3 competitive landscape weekly monitor. Includes G12C-selective inhibitors and select pan-RAS competitors.
+
+trials:
+  - nct_id: NCT04303780
+    drug: Sotorasib
+    label: CodeBreaK 200
+  - nct_id: NCT05920356
+    drug: Sotorasib
+    label: CodeBreaK 202
+  - nct_id: NCT04685135
+    drug: Adagrasib
+    label: KRYSTAL-12
+  - nct_id: NCT04613596
+    drug: Adagrasib
+    label: KRYSTAL-7
+  - nct_id: NCT06875310
+    drug: Adagrasib
+    label: KRYSTAL-4
+  - nct_id: NCT06497556
+    drug: Divarasib
+    label: Divarasib head-to-head vs sotorasib or adagrasib
+  - nct_id: NCT06793215
+    drug: Divarasib
+    label: Divarasib first-line combination
+  - nct_id: NCT06890598
+    drug: Olomorasib
+    label: SUNRAY-02
+  - nct_id: NCT06300177
+    drug: D-1553
+    label: D-1553 second-line monotherapy
+  - nct_id: NCT07174908
+    drug: D-1553
+    label: D-1553 plus IN10018 first-line combination
+  - nct_id: NCT06881784
+    drug: Daraxonrasib
+    label: RASolve 301
+
+drug_names:
+  - sotorasib
+  - adagrasib
+  - divarasib
+  - olomorasib
+  - D-1553
+  - IN10018
+  - daraxonrasib

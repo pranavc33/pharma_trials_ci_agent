@@ -1,0 +1,166 @@
+{
+  "drug_names": [
+    "sotorasib",
+    "adagrasib",
+    "divarasib",
+    "olomorasib",
+    "D-1553",
+    "IN10018",
+    "daraxonrasib"
+  ],
+  "snapshot_date": "2026-07-01",
+  "trials": {
+    "NCT04303780": {
+      "drug": "Sotorasib",
+      "enrollment": 345,
+      "label": "CodeBreaK 200",
+      "primary_completion_date": "2022-08-02",
+      "publications": [
+        {
+          "authors": [
+            "Dingemans AC",
+            "Syrigos K",
+            "Livi L"
+          ],
+          "journal": "Lung cancer (Amsterdam, Netherlands)",
+          "pmid": "40774040",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40774040/",
+          "title": "Intracranial activity of sotorasib vs docetaxel in pretreated KRAS G12C-mutated advanced non-small cell lung cancer from a global, phase 3, randomized controlled trial.",
+          "year": "2025"
+        },
+        {
+          "authors": [
+            "Skoulidis F",
+            "Li BT",
+            "Hochmair M"
+          ],
+          "journal": "The oncologist",
+          "pmid": "39846981",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39846981/",
+          "title": "Pooled safety analysis and management of sotorasib-related adverse events in KRAS G12C-mutated advanced non-small cell lung cancer.",
+          "year": "2025"
+        },
+        {
+          "authors": [
+            "de Langen AJ",
+            "Johnson ML",
+            "Mazieres J"
+          ],
+          "journal": "Lancet (London, England)",
+          "pmid": "36764316",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36764316/",
+          "title": "Sotorasib versus docetaxel for previously treated non-small-cell lung cancer with KRAS(G12C) mutation: a randomised, open-label, phase 3 trial.",
+          "year": "2023"
+        },
+        {
+          "authors": [
+            "Olivier T",
+            "Haslam A",
+            "Prasad V"
+          ],
+          "journal": "Translational oncology",
+          "pmid": "36577165",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36577165/",
+          "title": "Sotorasib in KRAS(G12C) mutated lung cancer: Can we rule out cracking KRAS led to worse overall survival?",
+          "year": "2023"
+        }
+      ],
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    "NCT04613596": {
+      "drug": "Adagrasib",
+      "enrollment": 626,
+      "label": "KRYSTAL-7",
+      "primary_completion_date": "2032-06-09",
+      "publications": [],
+      "status": "RECRUITING"
+    },
+    "NCT04685135": {
+      "drug": "Adagrasib",
+      "enrollment": 453,
+      "label": "KRYSTAL-12",
+      "primary_completion_date": "2023-12-30",
+      "publications": [
+        {
+          "authors": [
+            "Barlesi F",
+            "Yao W",
+            "Duruisseaux M"
+          ],
+          "journal": "Lancet (London, England)",
+          "pmid": "40783289",
+          "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40783289/",
+          "title": "Adagrasib versus docetaxel in KRAS(G12C)-mutated non-small-cell lung cancer (KRYSTAL-12): a randomised, open-label, phase 3 trial.",
+          "year": "2025"
+        }
+      ],
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    "NCT05920356": {
+      "drug": "Sotorasib",
+      "enrollment": 750,
+      "label": "CodeBreaK 202",
+      "primary_completion_date": "2027-06-30",
+      "publications": [],
+      "status": "RECRUITING"
+    },
+    "NCT06300177": {
+      "drug": "D-1553",
+      "enrollment": 522,
+      "label": "D-1553 second-line monotherapy",
+      "primary_completion_date": "2026-10",
+      "publications": [],
+      "status": "RECRUITING"
+    },
+    "NCT06497556": {
+      "drug": "Divarasib",
+      "enrollment": 338,
+      "label": "Divarasib head-to-head vs sotorasib or adagrasib",
+      "primary_completion_date": "2026-05-19",
+      "publications": [],
+      "status": "ACTIVE_NOT_RECRUITING"
+    },
+    "NCT06793215": {
+      "drug": "Divarasib",
+      "enrollment": 600,
+      "label": "Divarasib first-line combination",
+      "primary_completion_date": "2028-11-30",
+      "publications": [],
+      "status": "RECRUITING"
+    },
+    "NCT06875310": {
+      "drug": "Adagrasib",
+      "enrollment": 630,
+      "label": "KRYSTAL-4",
+      "primary_completion_date": "2029-09-07",
+      "publications": [],
+      "status": "RECRUITING"
+    },
+    "NCT06881784": {
+      "drug": "Daraxonrasib",
+      "enrollment": 590,
+      "label": "RASolve 301",
+      "primary_completion_date": "2027-12-01",
+      "publications": [],
+      "status": "RECRUITING"
+    },
+    "NCT06890598": {
+      "drug": "Olomorasib",
+      "enrollment": 700,
+      "label": "SUNRAY-02",
+      "primary_completion_date": "2029-05",
+      "publications": [],
+      "status": "RECRUITING"
+    },
+    "NCT07174908": {
+      "drug": "D-1553",
+      "enrollment": 400,
+      "label": "D-1553 plus IN10018 first-line combination",
+      "primary_completion_date": "2028-09",
+      "publications": [],
+      "status": "RECRUITING"
+    }
+  },
+  "watchlist_description": "KRAS G12C NSCLC Phase 3 competitive landscape weekly monitor. Includes G12C-selective inhibitors and select pan-RAS competitors.",
+  "watchlist_name": "kras_g12c_nsclc"
+}
