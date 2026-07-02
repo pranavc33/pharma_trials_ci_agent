@@ -1,3 +1,29 @@
+# Building a Weekly Pharma CI Monitor
+
+I extended an existing pharma competitive intelligence agent into a focused weekly change monitor for CI analysts. The new tool takes a watchlist of clinical trials, snapshots current ClinicalTrials.gov and PubMed state, diffs against last week, and produces a Markdown digest featuring new publications prominently.
+
+Repository: https://github.com/pranavc33/pharma_trials_ci_agent
+
+## Why I'm proud of this session
+
+- I asked Codex propose an architecture before writing any code, then approved and refined it  before implementation started
+- Reviewed each of five new modules one by one
+- Challenged Codex when it relaxed its commitments
+- Three-tier test suite : unit tests for the two core functions plus an integration test using seeded fixtures
+- End-to-end verification against real ClinicalTrials.gov and PubMed APIs, then made a change into a copied snapshot to demonstrate the diff logic
+- Used Claude to refine my prompts for judicious use of tokens, I had a dual-agent workflow!
+
+
+The three files that matter in the resulting repository:
+- pharma_ci/ — the new Python package (five modules, roughly 700 lines)
+- tests/ — three passing tests with hand-crafted fixtures
+- snapshots/2026-07-01.json — real production data proving end-to-end operation
+
+# Full Codex Session Log
+
+Session ID and metadata below. The remainder of this document is the raw session transcript, converted from the JSONL Codex writes to ~/.codex/sessions/.
+
+
 # Codex Session Log
 
 **Session ID:** 019f1cca-2d0a-7e73-a0f8-5c4671eda4b6
